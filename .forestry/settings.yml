@@ -19,6 +19,11 @@ sections:
   label: Info Page
 - type: heading
   label: General Config
+- type: directory
+  path: content/data/authors.yaml
+  label: Author List
+  create: all
+  match: "**/*"
 - type: document
   path: config.json
   label: Site Info
