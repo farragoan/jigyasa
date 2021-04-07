@@ -37,3 +37,4 @@ fields:
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
 - content/posts/naming-a-blog.md
+- content/posts/why-this-is-still-a-netlify-app-and-not-on-a-domain.md
