@@ -20,10 +20,10 @@ sections:
 - type: heading
   label: General Config
 - type: directory
-  path: content/data/authors.yaml
+  path: content/data
   label: Author List
   create: all
-  match: "**/*"
+  match: authors.yaml
 - type: document
   path: config.json
   label: Site Info
