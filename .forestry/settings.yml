@@ -22,7 +22,7 @@ sections:
 - type: directory
   path: content/data
   label: Author List
-  create: all
+  create: none
   match: authors.yaml
 - type: document
   path: config.json
