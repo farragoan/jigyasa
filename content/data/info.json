@@ -1,10 +1,10 @@
 {
-  "description": "<p>Hi!<br>I'm Dhruv Nagpal, and this is my blog.</p><p><br>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p></p>",
+  "description": "<p>Hi!<br>I'm Dhruv Nagpal, and this is my blog. I know it is very barebones right now, but we'll get there. </p>",
+  "cta": "<p>If you like the blog, please share it with your friends. I don't plan to monetise it, but it'll be great to be able to reach people.</p>",
   "contact": {
     "email": "dhruv.nagpal@hotmail.com",
     "twitter_handle": "",
     "github_handle": "farragoan"
   },
-  "background_color": "#B1BCBC"
+  "background_color": "#44F3F3"
 }
